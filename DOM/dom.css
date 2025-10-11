@@ -1,0 +1,19 @@
+*{
+    background-color: pink;
+}
+h1{
+    color: rgb(158, 13, 13);
+    background: rgb(4, 179, 13);
+}
+h4{
+    color: rgb(75, 8, 8);
+    background: rgb(120, 179, 3);
+}
+p{
+    color: rgb(129, 17, 17);
+    background: yellowgreen;
+}
+button{
+    color: rgb(37, 97, 107);
+    background: rgb(197, 192, 212);
+}

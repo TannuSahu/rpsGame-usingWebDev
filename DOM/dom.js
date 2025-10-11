@@ -1,0 +1,13 @@
+console.log("welcome to mypage");
+alert("Are you sure");
+console.dir(document.body.children);
+//document.body.childNodes[5].innerText = "abcd";
+let byId = document.getElementById("head1");
+console.dir(byId);
+let byClass = document.getElementsByClassName("head1");
+console.dir(byClass);
+let bytagname = document.getElementsByTagName("p");
+console.dir(bytagname); 
+let firstele = document.querySelector("p");
+console.dir(firstele);
+console.dir(document.body.firstChild);
